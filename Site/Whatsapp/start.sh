@@ -19,7 +19,7 @@ echo -e '\033[32;40;1m
 \e[31m[99]\e[37m Exit
 
  '
-echo -e "\033[32;40;1m                      ~~~Yaman Efkar~~~"
+echo -e "\033[32;40;1m                      ~~~R@z@R~~~"
 echo ""
 read -p "İslem Numarası : " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
