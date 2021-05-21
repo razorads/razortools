@@ -1,14 +1,13 @@
 #!/bin/bash
 
-#Code:Yaman Efkar
+#Code:R@z@R
 #Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#İnstagram : @razor_account
 clear
 echo -e  "
 
 
-\e[35m     ((( #Türk Siber Timi  #Yaman Efkar )))
+\e[35m     ((( #Türk Siber Timi  #R@z@R )))
 
 
 
