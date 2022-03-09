@@ -2,7 +2,7 @@
 #!/bin/sh
 #Code:R@z@R
 #Türk Siber Timi
-#İnstagram : @razor_account
+#İnstagram : @suluyaylak_00
 clear
 case $1 in
 
@@ -36,7 +36,7 @@ banner(){
 echo -e '\033[31;40;1m 
 
 	   \e[35m☾★ ☾★ ☾★ ☾★ R@z@R ☾★ ☾★ ☾★ ☾★	
-  \e[32m☾★ ☾★ ☾★ ☾★ İnstagram : @razor_account☾★ ☾★ ☾★ ☾★	
+  \e[32m☾★ ☾★ ☾★ ☾★ İnstagram : @suluyaylak_00☾★ ☾★ ☾★ ☾★	
 '
 echo -e '
 \e[31m[01]\e[32mİnstagram			\e[31m[04]\e[32mFacebook
